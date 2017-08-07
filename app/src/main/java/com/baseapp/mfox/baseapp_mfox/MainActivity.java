@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
-        mTVALL.setText("你好，我的APP");
+        mTVALL.setText("你好，我的APP ");
     }
 }
