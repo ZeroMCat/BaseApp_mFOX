@@ -8,6 +8,7 @@
     tools:context="com.baseapp.mfox.baseapp_mfox.MainActivity">
 
     <TextView
+        android:id="@+id/TV_ALL"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
